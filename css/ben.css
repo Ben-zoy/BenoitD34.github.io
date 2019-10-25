@@ -1,0 +1,154 @@
+
+/*===== REF COULEUR= 
+ROUGE 1: #F20732
+BLEU FONCE: #07038C
+BLEU CLAIR: #056CF2
+ROUGE 2 FONCE #F20505  ===*/
+
+
+
+
+/*=== font-family: 'Poppins', sans-serif; ===*/
+body{
+	font-family: 'Poppins', sans-serif;}
+
+body, html{
+	padding: 0;
+	margin:0;
+	scroll-behavior: smooth;
+}
+
+a, a:hover{
+	text-decoration: none;}
+
+.container-fluid{
+padding: 0;}
+
+
+/*=====BANNIERE =====*/
+.banner{
+	width: 100%;
+	max-width: 100%;
+}
+
+.ban{
+	width: 100%;
+	max-width: 100%;
+	position: relative;
+}
+.ban img{
+	width: 100%;
+	max-width: 100%;
+	height: 20%;
+	padding-left: 0;
+}
+.inner-banner{
+	position: absolute;
+	top: 25px;
+	right: 50px;
+
+}
+
+}
+.menu{
+	float: right;
+
+}
+
+.menu a{
+	color: white;
+	margin-right: 20px;
+	font-size: 25px;
+}
+
+
+.menu a:hover{
+	color: #F20732;}
+
+
+
+
+
+
+
+/*===== A PROPOS / MES COMPETENCES =====*/
+.separator{
+	height: 3px;
+	width: 5%;
+	border: none;
+	background-color: #F20505;
+	
+}
+.about h2{
+	text-align: center;
+	margin-top: 3%;
+}
+.about article h2{
+	text-align: center;
+
+}
+.about img{
+	padding: 5px;
+	
+}
+
+
+
+/*====== MES EXPERIENCES PRO =====*/
+.expe{
+	
+}
+.expe h2{
+	text-align: center;
+	margin-top: 3px;
+}
+
+.expe p{
+	text-align: center;
+	  width: 100%;
+    height: auto;
+}
+
+
+/*===== CAROUSEL =====*/
+
+.mesImages h2{
+	margin-top: 100px;
+	text-align: center;
+} 
+
+.separator{
+	height: 3px;
+	width: 5%;
+	border: none;
+	background-color: #F20505;
+}
+
+#carouselExemple {
+    width: 20%;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+
+.carousel-item img{
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+/*===== CONTACT =====*/
+
+.contact h2{
+	text-align: center;
+	margin-top: 3px;
+}
+
+.contact img{
+	 width: 100%;
+    height: auto;
+}
+   
+
